@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 | ![](https://github.com/aenavah/aenavah/blob/main/PhCTrackMate_small.gif) | ![](https://github.com/aenavah/aenavah/blob/main/TrackMate_small.gif) |
 
 
-<a href='' target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE](https://github.com/aenavah/aenavah/blob/main/ImageJ_Icon.png)" height="100" /></a>
+<a href='' target="blank"><img align="center" src="https://github.com/aenavah/aenavah/blob/main/Imagej_icon.png" height="40" /></a>
